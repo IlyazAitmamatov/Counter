@@ -1,0 +1,10 @@
+.MyBtn{
+      width: 100%;
+
+      background-color: #eee;
+      color: #202020;
+      font-size: 50px;
+      font-weight: 400;
+
+      padding: 10px;
+}
